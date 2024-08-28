@@ -1,6 +1,6 @@
 class Solution {
 
-    public int countSeniors(String[] details) {
+    public int countSeniors(String[] details){
         int seniorCount = 0;
 
         // Iterate through each passenger's details
